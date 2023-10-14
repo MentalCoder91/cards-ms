@@ -79,7 +79,13 @@
 				<configuration>
 					<to>
 						<image>mentalcoder91/${project.artifactId}:v1</image>
+						<credHelper>gcr</credHelper>
+						<auth>
+							<username>mentalcoder91</username>
+							<password>dckr_pat_iiMnWoC4QNi72pmySvZVUpEat7E</password>
+						</auth>
 					</to>
+
 				</configuration>
 			</plugin>
 		</plugins>
